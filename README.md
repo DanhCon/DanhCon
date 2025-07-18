@@ -6,7 +6,7 @@
 
 ### 📬 How to reach me:
 
-[![LinkedIn]()
+[![LinkedIn](https://www.linkedin.com/in/danh-hu%E1%BB%B3nh-c%C3%B4ng-058919375/)
 [![GitHub]()
 [![YouTube]()
 
