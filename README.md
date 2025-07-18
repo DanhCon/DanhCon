@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi there, I'm Danh Huynh
 
-<!--
-**DanhCon/DanhCon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Working on research platforms for **autonomous vehicles** and **drones**.  
+📫 Research interests include perception, control, and planning.  
+🌱 I'm passionate about applying emerging technologies in the field of autonomous vehicles and drones.
 
-Here are some ideas to get you started:
+### 📬 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn]()
+[![GitHub]()
+[![YouTube]()
+
+![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanhCon&layout=compact&langs_count=8&theme=default" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=DanhCon&show_icons=true&theme=default&count_private=true" width="90%"/>
+    </td>
+  </tr>
+</table>
