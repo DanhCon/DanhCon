@@ -6,9 +6,8 @@
 
 ### 📬 How to reach me:
 
-[![LinkedIn](https://www.linkedin.com/in/danh-hu%E1%BB%B3nh-c%C3%B4ng-058919375/)
-[![GitHub]()
-[![YouTube]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/danh-hu%E1%BB%B3nh-c%C3%B4ng-058919375/)
+
 
 ![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
